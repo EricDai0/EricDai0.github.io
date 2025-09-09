@@ -11,11 +11,11 @@ Service
 ======
 **Journal Reviewer:**
 
--IEEE Transactions on Dependable and Secure Computing (TDSC)
--Pattern Recognition
--Knowledge-Based Systems
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
+- Pattern Recognition
+- Knowledge-Based Systems
 
 **Conference Reviewer:**
 
--ACM Multimedia (MM)
--ACM Multimedia Asia (MMAsia)
+- ACM Multimedia (MM)
+- ACM Multimedia Asia (MMAsia)
