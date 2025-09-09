@@ -7,6 +7,8 @@ redirect_from:
   - /publications
 ---
 
+{% include base_path %}
+
 Selected Publication
 ======
 1. Improving Transferable Targeted Attacks with Feature Tuning Mixup, Kaisheng Liang, Xuelong Dai, Yanjie Li, Dong Wang, Bin Xiao, CVPR 2025.[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Improving_Transferable_Targeted_Attacks_with_Feature_Tuning_Mixup_CVPR_2025_paper.pdf)
