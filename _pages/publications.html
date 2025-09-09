@@ -5,32 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Selected Publication
+======
+    1.Improving Transferable Targeted Attacks with Feature Tuning Mixup, Kaisheng Liang, Xuelong Dai, Yanjie Li, Dong Wang, Bin Xiao, CVPR 2025.[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Improving_Transferable_Targeted_Attacks_with_Feature_Tuning_Mixup_CVPR_2025_paper.pdf)
+    1.Diffusion Models as Strong Adversaries, **Xuelong Dai**, Yanjie Li, Mingxing Duan, Bin Xiao. IEEE Transactions on Image Processing, Vol. 33, pp. 6734-6747, 2024. [Paper](https://ieeexplore.ieee.org/abstract/document/10804100)
+    1.AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models, **Xuelong Dai**, Kaisheng Liang, Bin Xiao. ECCV 2024. [Paper](https://arxiv.org/pdf/2307.12499)[Code](https://github.com/EricDai0/advdiff)
+    1.Transferable 3D Adversarial Shape Completion using Diffusion Models, **Xuelong Dai**, Bin Xiao. ECCV 2024. [Paper](https://arxiv.org/pdf/2407.10077)[Code](https://github.com/EricDai0/3DASC)
+    1.Physical-World Optical Adversarial Attacks on 3D Face Recognition, Yanjie Li, Yiquan Li, **Xuelong Dai**, Songtao Guo, Bin Xiao. CVPR 2023. [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Physical-World_Optical_Adversarial_Attacks_on_3D_Face_Recognition_CVPR_2023_paper.pdf)[Code](https://github.com/PolyLiYJ/SLAttack)
+    1.Enhanced Semantic-Aware Multi-Keyword Ranked Search Scheme Over Encrypted Cloud Data, **Xuelong Dai**, Hua Dai, Chunming Rong, Geng Yang, Fu Xiao, Bin Xiao.  IEEE Transactions on Cloud Computing, Vol. 10, Issue: 4, December 2022. [Paper](https://ieeexplore.ieee.org/document/9310281)
+    1.Semantic-aware multi-keyword ranked search scheme over encrypted cloud data, Hua Dai, **Xuelong Dai**, Xun Yi, Geng Yang, Haiping Huang. Journal of Network and Computer Applications, Vol. 147, September 2019. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1084804519303029?via%3Dihub)
 
-{% include base_path %}
+Other Publication
+======
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+    1.Long-term cross adversarial training: A robust meta-learning method for few-shot classification tasks, Fan Liu, Shuyu Zhao, **Xuelong Dai**, Bin Xiao. ICML 2021 Workshop.
+    1.A Multibranch Search Tree‐Based Multi‐Keyword Ranked Search Scheme over Encrypted Cloud Data, **Xuelong Dai**, Hua Dai, Geng Yang, Xun Yi, Haiping Huang. Security and Communication Networks 2020.
+    1.An efficient and dynamic semantic-aware multikeyword ranked search scheme over encrypted cloud data, **Xuelong Dai**, Hua Dai, Geng Yang, Xun Yi, Haiping Huang. IEEE Access 2020.
