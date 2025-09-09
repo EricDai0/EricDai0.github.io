@@ -11,7 +11,7 @@ redirect_from:
 
 Selected Publication
 ======
-1. Improving Transferable Targeted Attacks with Feature Tuning Mixup, Kaisheng Liang, Xuelong Dai, Yanjie Li, Dong Wang, Bin Xiao, CVPR 2025.[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Improving_Transferable_Targeted_Attacks_with_Feature_Tuning_Mixup_CVPR_2025_paper.pdf)
+1. Improving Transferable Targeted Attacks with Feature Tuning Mixup, Kaisheng Liang, **Xuelong Dai**, Yanjie Li, Dong Wang, Bin Xiao, CVPR 2025.[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Improving_Transferable_Targeted_Attacks_with_Feature_Tuning_Mixup_CVPR_2025_paper.pdf)
 1. Diffusion Models as Strong Adversaries, **Xuelong Dai**, Yanjie Li, Mingxing Duan, Bin Xiao. IEEE Transactions on Image Processing, Vol. 33, pp. 6734-6747, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10804100)
 1. AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models, **Xuelong Dai**, Kaisheng Liang, Bin Xiao. ECCV 2024. [[Paper]](https://arxiv.org/pdf/2307.12499)[[Code]](https://github.com/EricDai0/advdiff)
 1. Transferable 3D Adversarial Shape Completion using Diffusion Models, **Xuelong Dai**, Bin Xiao. ECCV 2024. [[Paper]](https://arxiv.org/pdf/2407.10077)[[Code]](https://github.com/EricDai0/3DASC)
