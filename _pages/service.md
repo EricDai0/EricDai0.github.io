@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Service
-======
 **Journal Reviewer:**
 
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
